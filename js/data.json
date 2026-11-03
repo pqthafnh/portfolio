@@ -1,0 +1,14 @@
+[
+    {
+        "ten": "Dự án Portfolio cá nhân",
+        "moTa": "Website giới thiệu thông tin cá nhân, kỹ năng và các dự án đã thực hiện.",
+        "congNghe": ["HTML", "SCSS", "JavaScript"],
+        "namHoanThanh": 2026
+    },
+    {
+        "ten": "Dự án Web ứng dụng",
+        "moTa": "Ứng dụng web minh họa việc hiển thị và quản lý dữ liệu.",
+        "congNghe": ["HTML", "CSS", "JavaScript", "JSON"],
+        "namHoanThanh": 2026
+    }
+]
