@@ -1,0 +1,42 @@
+# Personal Portfolio
+
+Website Portfolio cá nhân được xây dựng bằng HTML, SCSS và JavaScript, nhằm giới thiệu thông tin cá nhân, kỹ năng và các dự án đã thực hiện.
+
+## Công nghệ sử dụng
+- HTML5
+- SCSS / CSS3
+- JavaScript
+- JSON
+- Font Awesome
+
+## Chức năng
+- Hiển thị thông tin cá nhân.
+- Quản lý và hiển thị danh sách kỹ năng.
+- Tải dữ liệu dự án từ file JSON bằng Fetch API.
+- Chuyển đổi giao diện Light Mode / Dark Mode.
+- Lưu giao diện bằng LocalStorage.
+- Form liên hệ và kiểm tra dữ liệu bằng JavaScript.
+
+## Cấu trúc dự án
+```text
+my-website/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── script.js
+│   └── data.json
+└── images/
+    └── avatar.jpg
+```
+
+## Cách chạy
+1. Clone repository về máy.
+2. Mở thư mục dự án bằng VS Code.
+3. Cài đặt tiện ích Live Server.
+4. Mở `index.html` bằng Live Server.
+
+## Tác giả
+**Thanh Pham**
+
+Personal Portfolio – 2026
